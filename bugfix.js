@@ -1,0 +1,1 @@
+Switch to main and apply the fix in bugfix.js. Commit and push it
